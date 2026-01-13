@@ -1,0 +1,33 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py~
+*.py.class
+.Python
+venv/
+.venv/
+.env
+.env.local
+*.env.*
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.tox/
+.cover/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+```
